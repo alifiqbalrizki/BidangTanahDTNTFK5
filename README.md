@@ -1,3 +1,2 @@
-# Bidang Tanah DTNTF K5
-Praktikum Survei Kadastral M10
-Bidang Tanah DTNTF FT UGM
+# Praktikum Survei Kadastral A M10
+Peta Bidang Tanah DTNTF FT UGM
